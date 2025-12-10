@@ -1,0 +1,8 @@
+# folders
+/model weights
+/vllm-env
+/__pycache__
+
+# files
+test.ipynb
+.env
